@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RSVP Form</string>
+    <string name="main_description">Kindly respond by February 06, 2021</string>
+    <string name="sub_description">We look forward to celebrate with you</string>
+    <string name="form_title">Please enter all the fields</string>
+    <string name="form_submit">Submit</string>
+    <string name="thank_you">Thank you</string>
+    <string name="error">Error</string>
+    <string name="thank_you_response">Thank you for your submission. RSVP form was submitted successfully.</string>
+    <string name="ok">OK</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
