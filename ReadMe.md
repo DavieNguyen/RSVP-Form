@@ -6,11 +6,10 @@ __Unit__: CMC Global APAC
 Using [Assessment API](https://integration.micaresvc.com/interviewapi/AssessmentTestRSVP) APIs for
 implement
 
-#Screenshots
-![Init](/inittialize.png)
-![Input](/input.png)
-![Success](/success.png)
-![Error](/error_dialog.png)
+## Screenshots
+|Init | Input | Success | Error|
+|-----|-------|---------|-----|
+|![Init](/inittialize.png) | ![Input](/input.png) | ![Success](/success.png) | ![Error](/error_dialog.png)|
 
 ### Install
 
